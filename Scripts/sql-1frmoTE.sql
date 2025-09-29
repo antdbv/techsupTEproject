@@ -1,1 +1,0 @@
-selctfrm te
