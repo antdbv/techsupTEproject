@@ -1,0 +1,23 @@
+{
+	"ae8821e1-f164-46b9-a13a-03b8d605e268": {
+		"task": "scriptExecute",
+		"label": "11",
+		"description": "",
+		"createTime": "202510161726",
+		"updateTime": "202510161726",
+		"state": {
+			"scriptFiles": [
+				"Scripts/Script.sql"
+			],
+			"dataSources": [
+				{
+					"project": "techsup",
+					"dataSource": "mariaDB-1999766440e-ced9d7994a47e3e"
+				}
+			],
+			"ignoreErrors": false,
+			"dumpQueryResultsToLog": false,
+			"autoCommit": false
+		}
+	}
+}
