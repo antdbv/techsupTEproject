@@ -89,6 +89,41 @@
 					"autocommit": true
 				}
 			}
+		},
+		"mysql5-19a4a90b554-5f3168b3aa720aa3": {
+			"provider": "mysql-ee",
+			"driver": "mysql5",
+			"name": "MySQL 5 (Legacy)@localhost",
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"database": "test",
+				"url": "jdbc:mysql://localhost:3306/test",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-show-all-dbs@": "false"
+				},
+				"auth-model": "native",
+				"handlers": {
+					"ssh_tunnel": {
+						"type": "TUNNEL",
+						"enabled": true,
+						"save-password": false,
+						"properties": {
+							"host": "db1.dev.dbeaver.infra",
+							"port": 22.0,
+							"authType": "PUBLIC_KEY",
+							"aliveInterval": "0",
+							"sshConnectTimeout": "10000"
+						}
+					}
+				},
+				"bootstrap": {
+					"autocommit": true
+				}
+			}
 		}
 	},
 	"connection-types": {
