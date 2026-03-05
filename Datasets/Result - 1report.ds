@@ -1,1 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?><dataset draft="false"><queries><query id="45be9f1a-50a1-45f6-be9d-b502a44e9bfd" data-source="mariaDB-1999766440e-ced9d7994a47e3e" catalog="test"><text><![CDATA[select * from test.444]]></text></query></queries></dataset>
+<?xml version="1.0" encoding="UTF-8"?><dataset description="" draft="false"><queries><query id="03210606-0a12-4b3b-a505-8a08104eca58" data-source="mariaDB-1999766440e-ced9d7994a47e3e" catalog="test"><text><![CDATA[select * from test.444
+where id=1]]></text></query></queries></dataset>
