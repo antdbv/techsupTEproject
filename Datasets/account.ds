@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><dataset draft="false"><queries><query id="a5a6349f-7231-41c5-bec5-3eea97802eec" data-source="mariaDB-1999766440e-ced9d7994a47e3e" catalog="test"><text><![CDATA[SELECT a.* FROM test.account AS a]]></text></query></queries></dataset>
