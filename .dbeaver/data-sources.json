@@ -181,8 +181,7 @@
 			"name": "Databricks",
 			"save-password": true,
 			"configuration": {
-				"port": "443",
-				"url": "databricks://adb-2602966260420554.14.azuredatabricks.net:443/default;transportMode\u003dhttp;ssl\u003d1;httpPath\u003dsql/protocolv1/o/2602966260420554/0922-144322-n3utt8ov;AuthMech\u003d3;UID\u003dtoken;PWD\u003ddapi5eb8f1e9dff78588d4401f587306e6ba",
+				"url": "jdbc:databricks://adb-108225007329067.7.azuredatabricks.net:443/default;",
 				"configurationType": "URL",
 				"type": "dev",
 				"closeIdleConnection": true,
