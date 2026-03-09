@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><dataset draft="false"><queries><query id="0356013c-a680-4ea1-8b70-4845ed774a9b" data-source="mariaDB-1999766440e-ced9d7994a47e3e" catalog="test"><text><![CDATA[SELECT t.* FROM test.`444` AS t]]></text></query></queries></dataset>
