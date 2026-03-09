@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><dataset draft="false"><queries><query id="8c41bf6e-fe65-46d0-8abf-1f9b26251536" data-source="mariaDB-1999766440e-ced9d7994a47e3e" catalog="test"><text><![CDATA[select * from test.account q 
+where q.acct_num=492]]></text></query></queries></dataset>
