@@ -196,7 +196,6 @@
 			"name": "Databricks 2",
 			"save-password": true,
 			"configuration": {
-				"port": "443",
 				"url": "jdbc:databricks://{host}:443",
 				"configurationType": "URL",
 				"type": "dev",
