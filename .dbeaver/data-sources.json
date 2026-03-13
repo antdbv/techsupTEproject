@@ -199,7 +199,7 @@
 				"configurationType": "URL",
 				"type": "dev",
 				"closeIdleConnection": true,
-				"auth-model": "native"
+				"auth-model": "databricks_oauth"
 			}
 		}
 	},
