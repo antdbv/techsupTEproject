@@ -194,13 +194,12 @@
 			"provider": "databricks",
 			"driver": "databricks-oss",
 			"name": "Databricks 2",
-			"save-password": true,
 			"configuration": {
 				"url": "jdbc:databricks://{host}:443",
 				"configurationType": "URL",
 				"type": "dev",
 				"closeIdleConnection": true,
-				"auth-model": "databricks_oauth"
+				"auth-model": "native"
 			}
 		}
 	},
