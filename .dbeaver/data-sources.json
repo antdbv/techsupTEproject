@@ -112,6 +112,12 @@
 				"bootstrap": {
 					"autocommit": true
 				}
+			},
+			"extensions": {
+				"ai.assistant": {
+					"confirmed": true,
+					"mcpEnabled": false
+				}
 			}
 		},
 		"mysql5-19a4a90b554-5f3168b3aa720aa3": {
